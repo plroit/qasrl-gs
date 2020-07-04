@@ -1,0 +1,149 @@
+﻿qasrl_id,verb_idx,verb,question,answer_range,answer,wh,subj,obj,obj2,aux,prep,verb_prefix,is_passive,is_negated
+Wiki1k:wikinews:1235103:3:0,8,confessed,What hasn't someone confessed to?,9:13,to any criminal activity,what,someone,,,hasn't,to,,False,True
+Wiki1k:wikinews:1235103:3:0,8,confessed,Who has not confessed to something?,5:6~!~21:22,Webster~!~he,who,,,something,hasn't,to,,False,True
+Wiki1k:wikinews:1288032:1:3,6,ranked,How was someone ranked?,7:8,tenth,how,someone,,,was,,,True,False
+Wiki1k:wikinews:1288032:1:3,6,ranked,Who was ranked?,0:1,Greece,who,,,,was,,,True,False
+Wiki1k:wikinews:1329850:0:0,14,taught,Where did someone teach?,17:23~!~9:13,"Leeds , West Yorkshire , England~!~at the secondary school",where,someone,,,did,,,False,False
+Wiki1k:wikinews:1329850:0:0,14,taught,When was someone teaching?,6:9,late Monday morning,when,someone,,,was,,,False,False
+Wiki1k:wikinews:1329850:0:0,14,taught,Who taught someone?,0:3~!~13:14,A female teacher~!~she,who,,,someone,,,,False,False
+Wiki1k:wikinews:1382514:2:1,1,provided,How long did something provide something?,7:10,for eight minutes,how long,something,something,,did,,,False,False
+Wiki1k:wikinews:1382514:2:1,1,provided,What did something provide?,2:5,a two-man advantage,what,something,,,did,,,False,False
+Wiki1k:wikinews:1382514:2:1,1,provided,What provided something?,0:1,This,what,,something,,,,,False,False
+Wiki1k:wikinews:1382514:2:1,1,provided,Who was provided something?,6:7,University,who,,something,,was,,,True,False
+Wiki1k:wikinews:1447627:4:1,13,finished,How did someone finish something?,14:15~!~17:26,second~!~behind World Championship hosts and Paralympic gold medalists Finland,how,someone,something,,did,,,False,False
+Wiki1k:wikinews:1447627:4:1,13,finished,When did someone finish something?,1:3,last year,when,someone,something,,did,,,False,False
+Wiki1k:wikinews:1447627:4:1,13,finished,Where did someone finish something?,4:8~!~9:10,IBSA European Goalball Championships~!~Turkey,where,someone,something,,did,,,False,False
+Wiki1k:wikinews:1447627:4:1,13,finished,Who finished something?,11:13,the team,who,,something,,,,,False,False
+Wiki1k:wikinews:1447627:5:4,5,remain,How should someone remain?,6:7,silent,how,someone,,,should,,,False,False
+Wiki1k:wikinews:1447627:5:4,5,remain,When should someone remain something?,7:9,during play,when,someone,something,,should,,,False,False
+Wiki1k:wikinews:1447627:5:4,5,remain,Who should remain something?,0:2,The audience,who,,something,,should,,,False,False
+Wiki1k:wikinews:1456077:2:1,1,seek,What does someone seek?,2:5,a referendum rethink,what,someone,,,does,,,False,False
+Wiki1k:wikinews:1456077:2:1,1,seek,Where does someone seek something?,13:16,here in Britain,where,someone,something,,does,,,False,False
+Wiki1k:wikinews:1456077:2:1,1,seek,Who seeks something?,0:1,We,who,,something,,,,,False,False
+Wiki1k:wikinews:1456077:2:1,1,seek,Why does someone seek something?,7:13,to help get Labour into power,why,someone,something,,does,,,False,False
+Wiki1k:wikinews:1490033:1:2,9,created,How will something be created?,11:18,"each with different Tier 1 capital requirements",how,something,,,will,,be,True,False
+Wiki1k:wikinews:1490033:1:2,9,created,What will be created?,3:7,four subcategories of D-SIBs,what,,,,will,,be,True,False
+Wiki1k:wikinews:1491471:1:2,14,killed,Where was someone killed?,15:18~!~18:29,in a firing~!~at the Line of Control in Akhnoor sector of Jammu district,where,someone,,,was,,,True,False
+Wiki1k:wikinews:1491471:1:2,14,killed,When was someone killed?,0:2,On Tuesday,when,someone,,,was,,,True,False
+Wiki1k:wikinews:1491471:1:2,14,killed,Who was killed?,7:10~!~13:14,Indian Army troopers~!~one,who,,,,was,,,True,False
+Wiki1k:wikinews:1491471:1:2,14,killed,Why was someone killed somewhere?,30:39,"reportedly , there was an infiltration into India happening",why,someone,,somewhere,was,,,True,False
+Wiki1k:wikinews:1498508:1:2,1,estimated,What did someone estimate?,5:18,increasing population and changing diet would increase world food needs by 50 percent,what,someone,,,did,,,False,False
+Wiki1k:wikinews:1498508:1:2,1,estimated,When did someone estimate something to do something?,2:4,by 2050,when,someone,something,something,did,to do,,False,False
+Wiki1k:wikinews:1498508:1:2,1,estimated,Who estimated something?,0:1,They,who,,something,,,,,False,False
+Wiki1k:wikinews:1498647:5:1,3,served,How did someone serve?,6:13,as a member of the Green Berets,how,someone,,,did,,,False,False
+Wiki1k:wikinews:1498647:5:1,3,served,Where did someone serve?,4:6,in Iraq,where,someone,,,did,,,False,False
+Wiki1k:wikinews:1498647:5:1,3,served,Who served somewhere?,0:1,Walding,who,,,somewhere,,,,False,False
+Wiki1k:wikinews:1498647:5:1,18,amputated,What was amputated?,15:18,his lower leg,what,,,,was,,,True,False
+Wiki1k:wikinews:1498647:5:1,18,amputated,When was something amputated?,19:22,after being shot,when,something,,,was,,,True,False
+Wiki1k:wikinews:1498647:5:1,18,amputated,Who had something amputated?,7:13~!~0:1,a member of the Green Berets~!~Walding,who,something,,,had,,,False,False
+Wiki1k:wikinews:1536039:2:2,17,cut,What was cut by someone?,18:23,funding to a state program,what,,,someone,was,by,,True,False
+Wiki1k:wikinews:1536039:2:2,17,cut,When did someone cut something?,0:1,Afterward,when,someone,something,,did,,,False,False
+Wiki1k:wikinews:1536039:2:2,17,cut,Who cut something?,2:3,Perry,who,,something,,,,,False,False
+Wiki1k:wikinews:1536039:2:2,17,cut,Why was something cut by someone?,12:16,she did not resign,why,something,,someone,was,by,,True,False
+Wiki1k:wikinews:1651436:0:2,21,turned,What didn't turn up?,20:21,nothing,what,,,,didn't,up,,False,True
+Wiki1k:wikinews:1651436:0:2,21,turned,When didn't something turn up?,0:3,Back in May,when,something,,,didn't,up,,False,True
+Wiki1k:wikinews:1651436:0:2,21,turned,Where didn't something turn up?,15:18,in the area,where,something,,,didn't,up,,False,True
+Wiki1k:wikinews:1674002:0:0,19,according,What was something according to?,21:29,"the National Hurricane Center in Miami , Florida",what,something,,,was,to,,False,False
+Wiki1k:wikinews:1674002:0:0,19,according,What was according to something?,0:18,The hurricane is moving up the North Atlantic Ocean with 140 mph winds ( about 225 kph ),what,,,something,was,to,,False,False
+Wiki1k:wikinews:1687310:1:1,1,told,What did someone tell someone?,11:20~!~3:10,I could come up with something fun and unique~!~that I know slashers better than most,what,someone,,someone,did,,,False,False
+Wiki1k:wikinews:1687310:1:1,1,told,Who did someone tell something?,2:3,me,who,someone,,something,did,,,False,False
+Wiki1k:wikinews:1687310:1:1,1,told,Who told someone something?,0:1,She,who,,someone,something,,,,False,False
+Wiki1k:wikinews:1687310:9:1,22,doubt,What does someone doubt?,23:31,we would ever be able to release it,what,someone,,,does,,,False,False
+Wiki1k:wikinews:1687310:9:1,22,doubt,Who doubts something?,21:22,I,who,,something,,,,,False,False
+Wiki1k:wikinews:1687310:9:1,22,doubt,Why does someone doubt something?,15:19,not knowing about copyrights,why,someone,something,,does,,,False,False
+Wiki1k:wikinews:1910371:2:2,3,told,What did someone tell someone?,5:24,"`` Our firemen tried several times to approach the fourth floor where the cinema was located , without success",what,someone,,someone,did,,,False,False
+Wiki1k:wikinews:1910371:2:2,3,told,Who did someone tell something?,4:5,reporters,who,someone,,something,did,,,False,False
+Wiki1k:wikinews:1910371:2:2,3,told,Who told someone something?,0:3,Firefighter Wan Jie,who,,someone,something,,,,False,False
+Wiki1k:wikinews:1974065:1:3,4,reopened,What reopened?,0:4,One of the runways,what,,,,,,,False,False
+Wiki1k:wikinews:1974065:1:3,4,reopened,When did something reopen?,5:8,around 2 p.m.,when,something,,,did,,,False,False
+Wiki1k:wikinews:2067610:1:0,3,renovating,What is someone renovating?,4:8,the former post office,what,someone,,,is,,,False,False
+Wiki1k:wikinews:2067610:1:0,3,renovating,When is someone renovating something?,2:3,presently,when,someone,something,,is,,,False,False
+Wiki1k:wikinews:2067610:1:0,3,renovating,Where is someone renovating something?,16:18~!~14:15~!~8:13,United States~!~Mississippi~!~in the town of Edwards,where,someone,something,,is,,,False,False
+Wiki1k:wikinews:2067610:1:0,3,renovating,Who is renovating something?,0:1,Volunteers,who,,something,,is,,,False,False
+Wiki1k:wikinews:2067610:1:0,3,renovating,Why is someone renovating something?,18:25,for the doctor to have an office,why,someone,something,,is,,,False,False
+Wiki1k:wikinews:514852:1:0,3,seen,What is something seen as?,7:26,"an attempt to forge stronger economic and diplomatic ties with Beijing , and to access Chinese capital and expertise",what,something,,,is,as,,True,False
+Wiki1k:wikinews:514852:1:0,3,seen,What is seen as something?,0:2,The trip,what,,,something,is,as,,True,False
+Wiki1k:wikinews:514852:1:0,3,seen,Who sees something as something?,5:6,analysts,who,,something,something,,as,,False,False
+Wiki1k:wikinews:514852:1:3,4,increasing,What has been increased?,5:9,number of foreign investments,what,,,,has,,been,True,False
+Wiki1k:wikinews:514852:1:3,4,increasing,When has someone been increasing something?,9:12,in recent years,when,someone,something,,has,,been,False,False
+Wiki1k:wikinews:514852:1:3,4,increasing,Who has been increasing something?,0:1,China,who,,something,,has,,been,False,False
+Wiki1k:wikinews:514852:1:3,4,increasing,Why has someone been increasing something?,13:21,in an attempt to increase its international standing,why,someone,something,,has,,been,False,False
+Wiki1k:wikinews:514852:2:0,24,come,What does something come with?,26:27,conditions,what,something,,,does,with,,False,False
+Wiki1k:wikinews:514852:2:0,24,come,What comes with something?,5:9~!~18:20,US$ 1 billion annually~!~the funds,what,,,something,,with,,False,False
+Wiki1k:wikinews:514852:2:0,24,come,Where does something come from?,12:15,the United States,where,something,,,does,from,,False,False
+Wiki1k:wikinews:514852:2:0,24,come,Where does something come to?,0:1,Egypt,where,something,,,does,to,,False,False
+Wiki1k:wikinews:518237:3:2,9,required,What was required?,10:12,a break,what,,,,was,,,True,False
+Wiki1k:wikinews:518237:3:2,9,required,Where was something required?,12:15,in the game,where,something,,,was,,,True,False
+Wiki1k:wikinews:518237:3:2,9,required,Who required something?,0:1~!~2:5,Ouellett~!~Australian Cobi Crispin,who,,something,,,,,False,False
+Wiki1k:wikinews:518237:3:2,9,required,Why was something being required?,5:7,locked wheels,why,something,,,was,,being,True,False
+Wiki1k:wikinews:523166:2:2,4,defeated,How did someone defeat someone?,6:9,67 -- 33,how,someone,someone,,did,,,False,False
+Wiki1k:wikinews:523166:2:2,4,defeated,Who defeated something?,0:1,It,who,,something,,,,,False,False
+Wiki1k:wikinews:523166:2:2,4,defeated,Who did someone defeat?,5:6,Mexico,who,someone,,,did,,,False,False
+Wiki1k:wikinews:523166:4:6,7,prevented,What did something prevent someone from doing?,10:16,fully capitalising on their superb defence,what,something,someone,doing,did,from,,False,False
+Wiki1k:wikinews:523166:4:6,7,prevented,What prevented something?,5:7,poor shooting,what,,something,,,,,False,False
+Wiki1k:wikinews:523166:4:6,7,prevented,Who had been prevented from doing something?,8:9~!~2:4,them~!~the Gliders,who,,,something,had,from doing,been,True,False
+Wiki1k:wikinews:523166:5:3,13,leading,How much was someone leading something?,14:17,38 -- 28,how much,someone,something,,was,,,False,False
+Wiki1k:wikinews:523166:5:3,13,leading,When was someone leading something?,17:21,at the last change,when,someone,something,,was,,,False,False
+Wiki1k:wikinews:523166:5:3,13,leading,Who was leading something?,11:13,the Gliders,who,,something,,was,,,False,False
+Wiki1k:wikinews:523166:6:5,3,sent,Where was someone sent?,4:9,to the free throw line,where,someone,,,was,,,True,False
+Wiki1k:wikinews:523166:6:5,3,sent,Who was sent somewhere?,11:12~!~2:3,she~!~Merritt,who,,,somewhere,was,,,True,False
+Wiki1k:wikinews:523166:6:5,3,sent,Why was someone sent somewhere?,0:1,Fouls,why,someone,,somewhere,was,,,True,False
+Wiki1k:wikinews:580832:0:2,3,suggest,What suggests something?,0:3,Reports from Minnesota,what,,something,,,,,False,False
+Wiki1k:wikinews:580832:0:2,3,suggest,What was suggested?,4:21,a ballot measure that would amend the constitution to ban gay marriage has been rejected by voters,what,,,,was,,,True,False
+Wiki1k:wikinews:593029:2:0,3,knew,How did someone know something?,2:3,obviously,how,someone,something,,did,,,False,False
+Wiki1k:wikinews:593029:2:0,3,knew,What did someone know?,4:10,there were journalists in the building,what,someone,,,did,,,False,False
+Wiki1k:wikinews:593029:2:0,3,knew,Who knew something?,1:2~!~30:32,We~!~the IDF,who,,something,,,,,False,False
+Wiki1k:wikinews:593029:2:0,23,said,What did someone say?,1:21,"We obviously knew there were journalists in the building , so we did not attack other floors in the building",what,someone,,,did,,,False,False
+Wiki1k:wikinews:593029:2:0,23,said,Who said something?,27:32~!~24:26,a spokesperson for the IDF~!~Avital Leibovich,who,,something,,,,,False,False
+Wiki1k:wikinews:593029:3:2,10,warned,What was someone warned to do?,13:21,stay clear of Hamas ' bases and facilities,what,someone,,do,was,to,,True,False
+Wiki1k:wikinews:593029:3:2,10,warned,Who was being warned?,8:9,journalists,who,,,,was,,being,True,False
+Wiki1k:wikinews:593259:1:0,16,help,How was someone being helped?,10:15,were carried to reclining chairs,how,someone,,,was,,being,True,False
+Wiki1k:wikinews:593259:1:0,16,help,What is someone being helped to do?,18:21,re-acclimate to gravity,what,someone,,do,is,to,being,True,False
+Wiki1k:wikinews:593259:1:0,16,help,When is someone being helped?,21:28,after being extracted from the sideways capsule,when,someone,,,is,,being,True,False
+Wiki1k:wikinews:593259:1:0,16,help,Who is helping someone?,29:32,Russian recovery forces,who,,someone,,is,,,False,False
+Wiki1k:wikinews:593259:1:0,16,help,Who was being helped?,8:10~!~4:6~!~1:3~!~0:1~!~17:18,Akihiko Hoshide~!~Sunita Williams~!~Yuri Malenchenko~!~Astronauts~!~them,who,,,,was,,being,True,False
+Wiki1k:wikinews:635750:1:2,22,supervise,What will someone supervise?,23:26,her onward care,what,someone,,,will,,,False,False
+Wiki1k:wikinews:635750:1:2,22,supervise,Where will someone supervise someone?,19:21,at home,where,someone,someone,,will,,,False,False
+Wiki1k:wikinews:635750:1:2,22,supervise,Who will supervise someone?,10:13,our therapies team,who,,someone,,will,,,False,False
+Wiki1k:wikinews:646788:0:0,6,occurred,What has occurred?,4:6,the incident,what,,,,,,,False,False
+Wiki1k:wikinews:646788:0:0,6,occurred,When did something occur?,7:12,at 2:25 a.m. local time,when,something,,,did,,,False,False
+Wiki1k:wikinews:646788:0:0,6,occurred,Where did something occur?,25:38~!~12:24,"about 98 nautical miles from Puerto Princesa , the capital of the province~!~about 130 km east-southeast of the province of Palawan in the Philippines",where,something,,,did,,,False,False
+Wiki1k:wikinews:646788:2:0,15,informed,How was someone informed of something?,14:15,promptly,how,someone,,something,was,of,,True,False
+Wiki1k:wikinews:646788:2:0,15,informed,What was someone informed of?,17:19,the incident,what,someone,,,was,of,,True,False
+Wiki1k:wikinews:646788:2:0,15,informed,Who was informed?,8:13,The Government of the Philippines,who,,,,was,,,True,False
+Wiki1k:wikinews:652902:4:0,32,working,Who is someone working with?,34:36,the parties,who,someone,,,is,with,,False,False
+Wiki1k:wikinews:652902:4:0,32,working,Who is working with someone?,16:19,The United States,who,,,someone,is,with,,False,False
+Wiki1k:wikinews:652902:4:0,32,working,Why was someone working with something?,36:45,to press forward the goal of a two-state solution,why,someone,,something,was,with,,False,False
+Wiki1k:wikinews:652902:4:2,17,believe,What does someone believe?,18:47,that what needs to take place is direct negotiations between the two parties ( Israelis and Palestinians ) that addresses the final-status issues and results in a two-state solution,what,someone,,,does,,,False,False
+Wiki1k:wikinews:652902:4:2,17,believe,Who believes something?,4:7~!~16:17,the White House~!~We,who,,something,,,,,False,False
+Wiki1k:wikinews:652902:4:3,4,noted,What did someone note?,5:21,that a newly-formed coalition government may improve the relationship between Netanyahu and US president Barack Obama,what,someone,,,did,,,False,False
+Wiki1k:wikinews:652902:4:3,4,noted,Who noted something?,0:4,The New York Times,who,,something,,,,,False,False
+Wiki1k:wikinews:654166:1:1,8,helped,What has something helped to do?,9:13,to enable the operation,what,something,,do,has,to,,False,False
+Wiki1k:wikinews:654166:1:1,8,helped,Who did something help to?,14:23,the 10 gunmen from the Pakistani militant group Laskhar-e-Taiba,who,something,,,did,to,,False,False
+Wiki1k:wikinews:654166:1:1,8,helped,What has helped something?,3:7,scouting and information gathering,what,,something,,has,,,False,False
+Wiki1k:wikinews:654166:1:1,8,helped,Who has helped in something?,0:2,David Headley,who,,,something,has,in,,False,False
+Wiki1k:wikinews:703961:0:1,5,boost,What will boost something?,3:4,plans,what,,something,,will,,,False,False
+Wiki1k:wikinews:703961:0:1,5,boost,What would be boosted?,6:9,the housing market,what,,,,would,,be,True,False
+Wiki1k:wikinews:703961:0:1,5,boost,Where would something be boosted?,9:13,in his fourth budget,when,something,,,would,,be,True,False
+Wiki1k:wikinews:715345:1:0,17,shrank,What shrank?,12:16,the British manufacturing sector,what,,,,,,,False,False
+Wiki1k:wikinews:721315:0:0,7,approve,How did someone approve something?,4:5,voted,how,someone,something,,did,,,False,False
+Wiki1k:wikinews:721315:0:0,7,approve,What did someone approve?,8:10~!~10:17,a bill~!~to allow same-sex marriage to be legal,what,someone,,,did,,,False,False
+Wiki1k:wikinews:721315:0:0,7,approve,When was something approved?,5:6,yesterday,when,something,,,was,,,True,False
+Wiki1k:wikinews:721315:0:0,7,approve,Who approved something?,0:4,France 's upper house,who,,something,,,,,False,False
+Wiki1k:wikinews:721315:0:0,7,approve,Why did someone approve something?,17:24,following protests for and against the bill,why,someone,something,,did,,,False,False
+Wiki1k:wikinews:721315:3:0,1,arose,What arose?,0:1,Controversy,what,,,,,,,False,False
+Wiki1k:wikinews:721315:3:0,1,arose,When did something arise?,2:5,earlier this week,when,something,,,did,,,False,False
+Wiki1k:wikinews:721315:3:0,1,arose,Why did something arise?,6:40,"Larousse , publishers of the French dictionary , announced that the 2014 edition of the dictionary would change the listing for ` marriage ' to include same sex as well as opposite sex couples",why,something,,,did,,,False,False
+Wiki1k:wikinews:722801:0:2,4,arrested,Who was arrested?,11:13~!~6:11~!~0:3,Chas Booth~!~the Green Party Edinburgh councillor~!~Around 47 people,who,,,,was,,,True,False
+Wiki1k:wikinews:782706:2:1,3,identified,What did someone identify something as?,9:12,potential danger areas,what,someone,something,,did,as,,False,False
+Wiki1k:wikinews:782706:2:1,3,identified,What did someone identify?,6:8~!~4:5,rail networks~!~subways,what,someone,,,did,,,False,False
+Wiki1k:wikinews:782706:2:1,3,identified,Who identified something?,0:3,The State Department,who,,something,,,,,False,False
+Wiki1k:wikinews:782706:2:1,3,identified,Why did someone identify something as something?,13:21,because of their history in previous terrorist attacks,why,someone,something,something,did,as,,False,False
+Wiki1k:wikinews:784739:8:1,24,cause,What might something cause?,25:27,serious problems,what,something,,,might,,,False,False
+Wiki1k:wikinews:784739:8:1,24,cause,What might cause something?,13:15~!~5:6~!~18:19,the eruptions~!~it~!~nothing,what,,something,,,,,False,False
+Wiki1k:wikinews:784739:8:1,24,cause,Why something might cause something?,20:23,been big enough,why,something,something,,might,,,False,False
+Wiki1k:wikinews:784739:8:1,24,cause,Where might something cause something?,27:31,scores of kilometers away,where,something,something,,might,,,False,False
+Wiki1k:wikinews:785177:1:0,2,remarked,What did someone remark?,4:23,"`` This is the team that builds on a strong and effective , united and cohesive opposition . ''",what,someone,,,did,,,False,False
+Wiki1k:wikinews:785177:1:0,2,remarked,Who remarked?,0:2,Mr Abbott,who,,,,,,,False,False
+Wiki1k:wikinews:844279:29:2,13,fixing,What was someone fixing?,16:18,the damage,what,someone,,,was,,,False,False
+Wiki1k:wikinews:844279:29:2,13,fixing,Who was fixing something?,5:6,me,who,,something,,was,,,False,False
