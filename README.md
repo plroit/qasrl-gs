@@ -5,6 +5,8 @@ This repository is the reference point for the dataset and evaluation protocols 
 * The paper can be found [here](https://www.aclweb.org/anthology/2020.acl-main.626/)
 * The data files are located [here](data/) 
 * The evaluation code can be found [here](scripts/)
+* Writing Questions and Answers guidelines can be found [here](https://docs.google.com/presentation/d/1at37tUzJOT5IRQ6EIQ5Wxlih7dspAXEQnjrGT4a42hk/edit?usp=sharing)
+* Consolidation gudielines can be found [here](https://docs.google.com/presentation/d/1XG5b_bwar8fLhn68fWRzPV0L_TtyiQ7X1tZbkkIRyJk/edit?usp=sharing)
 
 ## Paper Abstract
 Question-answer driven Semantic Role Labeling (QA-SRL) was proposed as an attractive
